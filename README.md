@@ -74,3 +74,10 @@ Here are some ideas to get you started:
 </p>
 ---
 
+---
+
+## 🐍 Watch my contribution graph eat itself
+
+<p align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RekitRex21/RekitRex21/output/github-contribution-grid-snake.svg" />
+</p>
