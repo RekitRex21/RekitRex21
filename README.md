@@ -49,3 +49,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RekitRex21&show_icons=true&theme=radical" alt="RekitRex's GitHub stats" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RekitRex21&theme=radical" alt="RekitRex's streak stats"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RekitRex21&theme=radical" alt="RekitRex's GitHub Trophies"/>
+</p>
