@@ -72,9 +72,14 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RekitRex21&theme=radical" alt="RekitRex's GitHub Trophies"/>
 </p>
+
 ---
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RekitRex21&label=Profile%20views&color=0e75b6&style=flat" alt="RekitRex21" />
+</p>
 
 ## 🐍 Watch my contribution graph eat itself
 
